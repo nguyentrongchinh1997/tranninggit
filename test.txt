@@ -1,8 +1,13 @@
 sadsdfsdfsdf
 Đã check out branch master
 <<<<<<< HEAD
+<<<<<<< HEAD
 Đã check out branch client
 lsdfsdfdfk
 =======
 Đã check out branch client
 >>>>>>> d85c9c6... test
+=======
+Đã check out branch client
+lsdfsdfdfk
+>>>>>>> 0a56ba0... demo gôp cmmit
