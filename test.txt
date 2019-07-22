@@ -1,4 +1,8 @@
 sadsdfsdfsdf
 Đã check out branch master
+<<<<<<< HEAD
 Đã check out branch client
 lsdfsdfdfk
+=======
+Đã check out branch client
+>>>>>>> d85c9c6... test
